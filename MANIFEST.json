@@ -1,0 +1,338 @@
+[
+ {
+  "path": "acip-vaccines/anthrax.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/anthrax.html"
+ },
+ {
+  "path": "acip-vaccines/cholera.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/cholera.html"
+ },
+ {
+  "path": "acip-vaccines/covid-19.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/covid-19.html"
+ },
+ {
+  "path": "acip-vaccines/dengue.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/dengue.html"
+ },
+ {
+  "path": "acip-vaccines/dtap-ipv-hib-hepb.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/dtap-ipv-hib-hepb.html"
+ },
+ {
+  "path": "acip-vaccines/dtap-tdap-td.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/dtap-tdap-td.html"
+ },
+ {
+  "path": "acip-vaccines/ebola.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/ebola.html"
+ },
+ {
+  "path": "acip-vaccines/flu.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/flu.html"
+ },
+ {
+  "path": "acip-vaccines/hepatitis-a.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/hepatitis-a.html"
+ },
+ {
+  "path": "acip-vaccines/hepatitis-b.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/hepatitis-b.html"
+ },
+ {
+  "path": "acip-vaccines/hib.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/hib.html"
+ },
+ {
+  "path": "acip-vaccines/hpv.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/hpv.html"
+ },
+ {
+  "path": "acip-vaccines/japanese-encephalitis.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/japanese-encephalitis.html"
+ },
+ {
+  "path": "acip-vaccines/meningococcal.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/meningococcal.html"
+ },
+ {
+  "path": "acip-vaccines/mmr.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/mmr.html"
+ },
+ {
+  "path": "acip-vaccines/mmrv.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/mmrv.html"
+ },
+ {
+  "path": "acip-vaccines/pneumococcal.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/pneumococcal.html"
+ },
+ {
+  "path": "acip-vaccines/polio.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/polio.html"
+ },
+ {
+  "path": "acip-vaccines/rabies.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/rabies.html"
+ },
+ {
+  "path": "acip-vaccines/rotavirus.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/rotavirus.html"
+ },
+ {
+  "path": "acip-vaccines/rsv.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/rsv.html"
+ },
+ {
+  "path": "acip-vaccines/shingles.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/shingles.html"
+ },
+ {
+  "path": "acip-vaccines/smallpox-mpox.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/smallpox-mpox.html"
+ },
+ {
+  "path": "acip-vaccines/tbe.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/tbe.html"
+ },
+ {
+  "path": "acip-vaccines/typhoid.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/typhoid.html"
+ },
+ {
+  "path": "acip-vaccines/varicella.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/varicella.html"
+ },
+ {
+  "path": "acip-vaccines/yellow-fever.md",
+  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/yellow-fever.html"
+ },
+ {
+  "path": "measles/clinical-overview.md",
+  "source_url": "https://www.cdc.gov/measles/hcp/clinical-overview/index.html"
+ },
+ {
+  "path": "sti-tx/adolescents.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/adolescents.htm"
+ },
+ {
+  "path": "sti-tx/anogenital-warts.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/anogenital-warts.htm"
+ },
+ {
+  "path": "sti-tx/bv.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/bv.htm"
+ },
+ {
+  "path": "sti-tx/candidiasis.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/candidiasis.htm"
+ },
+ {
+  "path": "sti-tx/chancroid.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/chancroid.htm"
+ },
+ {
+  "path": "sti-tx/chlamydia.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/chlamydia.htm"
+ },
+ {
+  "path": "sti-tx/clinical-EPT.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/clinical-EPT.htm"
+ },
+ {
+  "path": "sti-tx/clinical-partnerServices.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/clinical-partnerServices.htm"
+ },
+ {
+  "path": "sti-tx/clinical-primary.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/clinical-primary.htm"
+ },
+ {
+  "path": "sti-tx/clinical-reporting.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/clinical-reporting.htm"
+ },
+ {
+  "path": "sti-tx/clinical-retesting.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/clinical-retesting.htm"
+ },
+ {
+  "path": "sti-tx/clinical-risk.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/clinical-risk.htm"
+ },
+ {
+  "path": "sti-tx/clinical.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/clinical.htm"
+ },
+ {
+  "path": "sti-tx/congenital-syphilis.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/congenital-syphilis.htm"
+ },
+ {
+  "path": "sti-tx/correctional.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/correctional.htm"
+ },
+ {
+  "path": "sti-tx/default.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/default.htm"
+ },
+ {
+  "path": "sti-tx/donovanosis.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/donovanosis.htm"
+ },
+ {
+  "path": "sti-tx/ectoparasitic.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/ectoparasitic.htm"
+ },
+ {
+  "path": "sti-tx/epididymitis.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/epididymitis.htm"
+ },
+ {
+  "path": "sti-tx/genital-ulcers.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/genital-ulcers.htm"
+ },
+ {
+  "path": "sti-tx/gonorrhea-adults.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-adults.htm"
+ },
+ {
+  "path": "sti-tx/gonorrhea-children.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-children.htm"
+ },
+ {
+  "path": "sti-tx/gonorrhea-neonates.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-neonates.htm"
+ },
+ {
+  "path": "sti-tx/hav.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/hav.htm"
+ },
+ {
+  "path": "sti-tx/hbv.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/hbv.htm"
+ },
+ {
+  "path": "sti-tx/hcv.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/hcv.htm"
+ },
+ {
+  "path": "sti-tx/herpes.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/herpes.htm"
+ },
+ {
+  "path": "sti-tx/hiv.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/hiv.htm"
+ },
+ {
+  "path": "sti-tx/hpv-cancer.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/hpv-cancer.htm"
+ },
+ {
+  "path": "sti-tx/hpv.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/hpv.htm"
+ },
+ {
+  "path": "sti-tx/intro.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/intro.htm"
+ },
+ {
+  "path": "sti-tx/latent-syphilis.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/latent-syphilis.htm"
+ },
+ {
+  "path": "sti-tx/lgv.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/lgv.htm"
+ },
+ {
+  "path": "sti-tx/methods.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/methods.htm"
+ },
+ {
+  "path": "sti-tx/msm.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/msm.htm"
+ },
+ {
+  "path": "sti-tx/mycoplasmagenitalium.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/mycoplasmagenitalium.htm"
+ },
+ {
+  "path": "sti-tx/neurosyphilis.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/neurosyphilis.htm"
+ },
+ {
+  "path": "sti-tx/p-and-s-syphilis.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/p-and-s-syphilis.htm"
+ },
+ {
+  "path": "sti-tx/penicillin-allergy.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/penicillin-allergy.htm"
+ },
+ {
+  "path": "sti-tx/pid.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/pid.htm"
+ },
+ {
+  "path": "sti-tx/pregnant.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/pregnant.htm"
+ },
+ {
+  "path": "sti-tx/proctitis.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/proctitis.htm"
+ },
+ {
+  "path": "sti-tx/references.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/references.htm"
+ },
+ {
+  "path": "sti-tx/sexual-assault-adults.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/sexual-assault-adults.htm"
+ },
+ {
+  "path": "sti-tx/sexual-assault-children.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/sexual-assault-children.htm"
+ },
+ {
+  "path": "sti-tx/syphilis-hiv.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/syphilis-hiv.htm"
+ },
+ {
+  "path": "sti-tx/syphilis-pregnancy.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/syphilis-pregnancy.htm"
+ },
+ {
+  "path": "sti-tx/syphilis.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/syphilis.htm"
+ },
+ {
+  "path": "sti-tx/terms.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/terms.htm"
+ },
+ {
+  "path": "sti-tx/tertiary-syphilis.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/tertiary-syphilis.htm"
+ },
+ {
+  "path": "sti-tx/trans.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/trans.htm"
+ },
+ {
+  "path": "sti-tx/trichomoniasis.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/trichomoniasis.htm"
+ },
+ {
+  "path": "sti-tx/urethritis-and-cervicitis.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/urethritis-and-cervicitis.htm"
+ },
+ {
+  "path": "sti-tx/vaginal-discharge.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/vaginal-discharge.htm"
+ },
+ {
+  "path": "sti-tx/workgroup-members.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/workgroup-members.htm"
+ },
+ {
+  "path": "sti-tx/wsw.md",
+  "source_url": "https://www.cdc.gov/std/treatment-guidelines/wsw.htm"
+ }
+]
