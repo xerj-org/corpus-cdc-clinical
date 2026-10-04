@@ -1,111 +1,11 @@
 [
  {
-  "path": "acip-vaccines/anthrax.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/anthrax.html"
+  "path": "LICENSE.md",
+  "source_url": "?"
  },
  {
-  "path": "acip-vaccines/cholera.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/cholera.html"
- },
- {
-  "path": "acip-vaccines/covid-19.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/covid-19.html"
- },
- {
-  "path": "acip-vaccines/dengue.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/dengue.html"
- },
- {
-  "path": "acip-vaccines/dtap-ipv-hib-hepb.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/dtap-ipv-hib-hepb.html"
- },
- {
-  "path": "acip-vaccines/dtap-tdap-td.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/dtap-tdap-td.html"
- },
- {
-  "path": "acip-vaccines/ebola.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/ebola.html"
- },
- {
-  "path": "acip-vaccines/flu.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/flu.html"
- },
- {
-  "path": "acip-vaccines/hepatitis-a.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/hepatitis-a.html"
- },
- {
-  "path": "acip-vaccines/hepatitis-b.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/hepatitis-b.html"
- },
- {
-  "path": "acip-vaccines/hib.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/hib.html"
- },
- {
-  "path": "acip-vaccines/hpv.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/hpv.html"
- },
- {
-  "path": "acip-vaccines/japanese-encephalitis.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/japanese-encephalitis.html"
- },
- {
-  "path": "acip-vaccines/meningococcal.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/meningococcal.html"
- },
- {
-  "path": "acip-vaccines/mmr.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/mmr.html"
- },
- {
-  "path": "acip-vaccines/mmrv.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/mmrv.html"
- },
- {
-  "path": "acip-vaccines/pneumococcal.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/pneumococcal.html"
- },
- {
-  "path": "acip-vaccines/polio.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/polio.html"
- },
- {
-  "path": "acip-vaccines/rabies.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/rabies.html"
- },
- {
-  "path": "acip-vaccines/rotavirus.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/rotavirus.html"
- },
- {
-  "path": "acip-vaccines/rsv.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/rsv.html"
- },
- {
-  "path": "acip-vaccines/shingles.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/shingles.html"
- },
- {
-  "path": "acip-vaccines/smallpox-mpox.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/smallpox-mpox.html"
- },
- {
-  "path": "acip-vaccines/tbe.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/tbe.html"
- },
- {
-  "path": "acip-vaccines/typhoid.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/typhoid.html"
- },
- {
-  "path": "acip-vaccines/varicella.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/varicella.html"
- },
- {
-  "path": "acip-vaccines/yellow-fever.md",
-  "source_url": "https://www.cdc.gov/acip-recs/hcp/vaccine-specific/yellow-fever.html"
+  "path": "README.md",
+  "source_url": "?"
  },
  {
   "path": "measles/clinical-overview.md",

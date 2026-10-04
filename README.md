@@ -6,7 +6,7 @@ authoritative source is always cdc.gov.
 
 ## Scope — exactly what was fetched (2026-10-04, UTC)
 
-Three groups, all HTML provider-facing pages, chrome stripped to main
+Two groups kept, all HTML provider-facing pages, chrome stripped to main
 content (headings, paragraphs, list items, table cells preserved as text):
 
 1. **`sti-tx/` (56 pages)** — the STI Treatment Guidelines, 2021, per-condition
@@ -17,16 +17,21 @@ content (headings, paragraphs, list items, table cells preserved as text):
    (BV, candidiasis, trichomonas), genital ulcers, warts, ectoparasitic,
    plus the clinical-prevention chapters (screening, partner services,
    expedited partner therapy, reporting, retesting).
-2. **`acip-vaccines/` (27 pages)** — ACIP current vaccine-specific
-   recommendations, walked from `/acip-recs/hcp/vaccine-specific/`
-   (anthrax through yellow-fever, incl. COVID-19, flu, hepatitis A/B,
-   MMR, pneumococcal, RSV, Td/Tdap).
-3. **`measles/` (1 page)** — the measles clinical overview for providers.
+2. **`measles/` (1 page)** — the measles clinical overview for providers.
 
-Pages that returned CDC's 404 stub, and multi-page section shells with no
-body (children/specialpops/gonorrhea landing pages whose content lives in
-the per-population pages), were dropped. `MANIFEST.json` lists
-`path → source URL` for every kept page. 84 files total.
+Dropped after inspection:
+- CDC 404 stubs and multi-page section shells with no body (the
+  children/specialpops/gonorrhea landing pages whose content lives in the
+  per-population pages).
+- **The 27 ACIP vaccine-specific pages** — fetched, then found to be link
+  indexes to MMWR articles, not recommendation text (the recommendations
+  themselves are published as MMWR PDFs). A link index is not retrievable
+  content; keeping it would have answered clinical queries with citation
+  lists. Immunization guidance therefore remains OUT of this corpus's
+  scope until a PDF text lane exists.
+
+`MANIFEST.json` lists `path → source URL` for every kept page.
+**57 files total.**
 
 ## Licence
 
